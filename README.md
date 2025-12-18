@@ -8,7 +8,7 @@ Hirefy is an AI-powered recruitment platform designed to transform the hiring pr
 
 ## Development Timeline
 
-The Hirefy platform was developed over a series of ten sprints from February to June 2025, following an agile methodology that allowed for continuous refinement and feature enhancement.
+The Hirefy platform was developed over a series of twenty sprints from February to December 2025, following an agile methodology that allowed for continuous refinement and feature enhancement.
 
 ## Sprint Highlights
 
@@ -157,6 +157,56 @@ Achieved full production deployment with automated infrastructure:
 - Integrated health checks, smoke tests, and monitoring systems
 - Streamlined deployment process for rapid feature delivery and continuous updates
 
+### Sprint 16: Production Iteration & Customer Feedback
+
+Focused on iterating based on real-world production usage:
+
+- Gathered and analyzed user feedback from production deployment
+- Implemented requested enhancements and feature requests from ECP and early users
+- Resolved production bugs and edge cases discovered through real-world usage
+- Optimized database queries and improved application response times
+- Enhanced UI/UX based on actual usage patterns and mobile responsiveness
+
+### Sprint 17: Continuous Improvement & System Optimization
+
+Delivered enhanced reliability and performance improvements:
+
+- Implemented advanced feature enhancements based on usage analytics
+- Resolved high-priority production issues and performance bottlenecks
+- Applied security patches and strengthened authentication flows
+- Optimized system architecture for increased load and scalability
+- Reduced API response times and improved concurrent user handling capacity
+
+### Sprint 18: Internationalization & Infrastructure Enhancement
+
+Expanded platform reach with new infrastructure:
+
+- Completed full translation of pitch deck for international audience
+- Configured new domain: **hire.ia.br** for Brazilian market
+- Enhanced production environment monitoring and maintenance
+- Implemented proactive maintenance procedures and system reliability improvements
+- Finalized presentation materials optimized for international stakeholders
+
+### Sprint 19: Stakeholder Presentations & Production Stability
+
+Delivered key stakeholder presentations with production refinements:
+
+- Delivered pitch presentation to stakeholders showcasing product vision and roadmap
+- Demonstrated product capabilities and gathered valuable feedback
+- Resolved critical production issues and applied stability hotfixes
+- Enhanced monitoring for proactive issue detection
+- Improved error handling and logging for better system observability
+
+### Sprint 20: Business Plan & Final Documentation
+
+Completed comprehensive business documentation and final deliverables:
+
+- Finalized Business Model Canvas with value proposition, customer segments, and revenue streams
+- Completed market sizing analysis (TAM, SAM, SOM) with competitive analysis
+- Documented go-to-market strategy for months 1-12
+- Established financial projections through Month 24 with break-even analysis
+- Compiled complete final project documentation in Portuguese and English
+
 ## Product Features
 
 ### Autonomous HR Agent
@@ -188,14 +238,24 @@ Achieved full production deployment with automated infrastructure:
 
 Hirefy successfully launched its closed beta in Q2 2025 at WebSummit Rio 2025, establishing strong market presence and investor interest. The platform has demonstrated significant traction with 10 enterprise leads and conditional investment commitments.
 
-**Current Status (Q3 2025):**
+**Current Status (Q4 2025):**
 
-- Product refinement with partners in progress
+- Complete solution development finished with 20 sprints of iteration
 - Active collaboration with Empresa com Propósito (ECP) for methodology integration and validation
-- Application deployed to production at **app.hirefy.ai** with ongoing testing and optimization
+- Application deployed to production at **app.hirefy.ai** and **hire.ia.br**
 - 10 enterprise client leads with projected ARR of R$216,000
 - R$400,000 conditional investment secured pending milestone achievement
 - CI/CD pipeline operational with zero-downtime deployment capabilities
+- LTV/CAC ratio of 4.4x demonstrating strong unit economics
+- Break-even target at Month 12 with 45 customers
+
+**Key Business Metrics:**
+
+- 10 qualified leads from Web Summit Rio 2025
+- R$216,000 potential ARR from leads
+- R$400,000 conditional investment commitment
+- LTV/CAC ratio of 4.4x
+- Go-to-market strategy defined for months 1-12
 
 **Upcoming Milestones:**
 
